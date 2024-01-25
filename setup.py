@@ -24,7 +24,8 @@ setup(name='powerview',
           'dsinternals',
           'pycryptodome',
           'chardet',
-          'tabulate'
+          'tabulate',
+          'argcomplete'
       ],
       classifiers=[
         'Intended Audience :: Information Technology',
